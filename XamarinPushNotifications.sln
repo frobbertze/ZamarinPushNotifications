@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPushNotifications.Android", "XamarinPushNotifications\XamarinPushNotifications.Android\XamarinPushNotifications.Android.csproj", "{08122F74-8874-403C-97E0-F8194C517645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPushNotifications", "XamarinPushNotifications\XamarinPushNotifications\XamarinPushNotifications.csproj", "{3ADB6E15-19C0-4991-B5C3-535DFBE0E412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08122F74-8874-403C-97E0-F8194C517645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08122F74-8874-403C-97E0-F8194C517645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08122F74-8874-403C-97E0-F8194C517645}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{08122F74-8874-403C-97E0-F8194C517645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08122F74-8874-403C-97E0-F8194C517645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08122F74-8874-403C-97E0-F8194C517645}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3ADB6E15-19C0-4991-B5C3-535DFBE0E412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADB6E15-19C0-4991-B5C3-535DFBE0E412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADB6E15-19C0-4991-B5C3-535DFBE0E412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADB6E15-19C0-4991-B5C3-535DFBE0E412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {976A779A-7EE5-4367-921C-9B8B5CA633DC}
+	EndGlobalSection
+EndGlobal

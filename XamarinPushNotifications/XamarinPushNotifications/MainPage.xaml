@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinPushNotifications"
+             x:Class="XamarinPushNotifications.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Xamarin.Forms!" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Entry x:Name="Valuetosave"></Entry>
+        <Button x:Name="SaveButton" Text="Save Value"></Button>
+        <Button x:Name="LoadButton" Text="Load Value"></Button>
+    </StackLayout>
+
+</ContentPage>
